@@ -1,0 +1,4 @@
+SELECT nome
+FROM alunos
+WHERE favorites = 'SIM'
+LIMIT 10;
